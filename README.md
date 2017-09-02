@@ -1,3 +1,6 @@
-# My Awesome Book
+# jls8
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+java8 说明书
+
+\[原文链接地址\]\(http://docs.oracle.com/javase/specs/index.html\)
+
