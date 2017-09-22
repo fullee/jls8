@@ -1,6 +1,2 @@
-# jls8
-
-java8 说明书
-
-[http://docs.oracle.com/javase/specs/index.html](http://docs.oracle.com/javase/specs/index.html "英文链接地址")
+java是一种全能，并发，以类为基础，面向对象的语言。Java足够简单，开发人员可以轻松使用。
 
