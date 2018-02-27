@@ -30,7 +30,7 @@ ReferenceType
 >
 > Object c = \(Objcet\)b;
 
-
+提示:
 
 > In practice, the programmer can ignore the null type and just pretend that null is merely a special literal that can be of any reference type.
 >
