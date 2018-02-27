@@ -6,8 +6,6 @@ JavaSE8 说明书
 
 [阅读The Java® Language Specification需要知道的英文单词](http://www.cnblogs.com/extjs4/p/6306438.html)
 
-
-
 1. 介绍
 
 2. 语法规则

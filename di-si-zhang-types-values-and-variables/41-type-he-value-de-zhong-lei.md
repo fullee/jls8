@@ -1,4 +1,4 @@
-4.1 The Kinds of Types and Values
+### 4.1 The Kinds of Types and Values
 
 ```
 Type:
@@ -18,8 +18,6 @@ ReferenceType
 >
 > null na = \(null\)a;
 
-
-
 空引用是null类型表达式的唯一可能值。
 
 > Integer a = null;
@@ -32,13 +30,11 @@ ReferenceType
 >
 > Object c = \(Objcet\)b;
 
+
+
 > In practice, the programmer can ignore the null type and just pretend that null is merely a special literal that can be of any reference type.
 >
 > 程序员可以忽略null,或者当做任意引用类型的字符串
-
-
-
-
 
 
 
