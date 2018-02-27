@@ -2,11 +2,9 @@ JavaSE8 说明书
 
 《The Java® Language Specification》中文译本
 
+## help
 
-
-\#\# help
-
-\[阅读The Java® Language Specification需要知道的英文单词\]\(http://www.cnblogs.com/extjs4/p/6306438.html\)
+[阅读The Java® Language Specification需要知道的英文单词](http://www.cnblogs.com/extjs4/p/6306438.html)
 
 
 
@@ -22,19 +20,19 @@ JavaSE8 说明书
 
 6. 名字
 
-    6.1 声明
+   6.1 声明
 
-    6.2 名字和标识符
+   6.2 名字和标识符
 
-    6.3 声明范围
+   6.3 声明范围
 
-    6.4 阴影和模糊
+   6.4 阴影和模糊
 
-    6.5 确定名字的含义
+   6.5 确定名字的含义
 
-    6.6 访问控制
+   6.6 访问控制
 
-    6.7 Fully Qualified Names and Canonical Names
+   6.7 Fully Qualified Names and Canonical Names
 
 7. 包
 
