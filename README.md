@@ -1,8 +1,8 @@
+## 第一章 介绍
+
 java是一种全能，并发，以类为基础，面向对象的语言。Java足够简单，开发人员可以轻松使用。
 
-
-
-THE Java® programming language is a general-purpose, concurrent, class-based, object-oriented language. It is designed to be simple enough that many programmers can achieve fluency in the language. The Java programming language is related to C and C++ but is organized rather differently, with a number of aspects of C and C++ omitted and a few ideas from other languages included. It is intended to be a production language, not a research language, and so, as C. A. R. Hoare 
+THE Java® programming language is a general-purpose, concurrent, class-based, object-oriented language. It is designed to be simple enough that many programmers can achieve fluency in the language. The Java programming language is related to C and C++ but is organized rather differently, with a number of aspects of C and C++ omitted and a few ideas from other languages included. It is intended to be a production language, not a research language, and so, as C. A. R. Hoare
 
 suggested in his classic paper on language design, the design has avoided including new and untested features.
 
@@ -12,7 +12,7 @@ clearly distinguishes between the
 
 compile-time errors
 
- that can and must be detected
+that can and must be detected
 
 at compile time, and those that occur at run time. Compile time normally consists
 
@@ -34,7 +34,7 @@ the safety problems of explicit deallocation \(as in C's
 
 free
 
- or C++'s
+or C++'s
 
 delete
 
