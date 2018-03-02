@@ -15,7 +15,8 @@
   * [1.3 句法](di-er-zhang-yu-fa/13-yu-fa.md)
   * [语法符号](di-er-zhang-yu-fa/yu-fa-fu-hao.md)
 * [第三章 词法结构\(Lexical Structure\)](di-san-zhang-ci-fa-jie-678428-lexical-structure.md)
-* [3.1 Unicode](di-san-zhang-ci-fa-jie-678428-lexical-structure/31-unicode.md)
+  * [3.1. Unicode](di-san-zhang-ci-fa-jie-678428-lexical-structure/31-unicode.md)
+  * [3.2. Lexical Translations](32-lexical-translations.md)
 * [第四章 Types,Values and Variables](di-si-zhang-types-values-and-variables.md)
   * [4.1 Type 和Value 的种类](di-si-zhang-types-values-and-variables/41-type-he-value-de-zhong-lei.md)
   * [4.2 原始类型](di-si-zhang-types-values-and-variables/42-yuan-shi-lei-xing.md)
@@ -24,7 +25,7 @@
   * 4.5 参数类型
   * 4.6 类型擦除
   * 4.7 可具体化的类型
-  * 源类型
   * 4.9 交叉类型
+  * [源类型](di-si-zhang-types-values-and-variables/yuan-lei-xing.md)
   * 子类型
 
