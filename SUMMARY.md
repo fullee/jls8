@@ -2,13 +2,12 @@
 
 * [准备材料](zhun-bei-cai-liao.md)
 * [目录](mu-lu.md)
-* [第一章 介绍](README.md)
-  * [1.1 规范组织](gui-fan-zu-zhi.md)
+* [README](README.md)
   * [1.2 范例程序](fan-li-cheng-xu.md)
   * [1.3 标记](biao-ji.md)
   * [1.4 预定义的类与接口](lei-yu-jie-kou-de-guan-xi.md)
   * [1.5 反馈](fan-kui.md)
-  * 1.6 引用
+  * [1.6 引用](16-yin-yong.md)
 * [第二章 语法](di-er-zhang-yu-fa.md)
   * 上下文无关的语法
   * 1.2 词法
@@ -28,4 +27,5 @@
   * 4.9 交叉类型
   * [源类型](di-si-zhang-types-values-and-variables/yuan-lei-xing.md)
   * 子类型
+* [第一章 简介](di-yi-zhang-jian-jie.md)
 
