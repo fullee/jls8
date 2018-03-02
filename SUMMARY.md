@@ -10,11 +10,7 @@
   * [1.4 预定义的接口和类联系](1_Introduction/1.4_Relationship_to_Predefined_Classes_and_Interfaces.md)
   * [1.5 反馈](1_Introduction/1.5_Feedback.md)
   * [1.6 参考](1_Introduction/1.6_References.md)
-* [第二章 语法](di-er-zhang-yu-fa.md)
-  * 上下文无关的语法
-  * 1.2 词法
-  * [1.3 句法](di-er-zhang-yu-fa/13-yu-fa.md)
-  * [语法符号](di-er-zhang-yu-fa/yu-fa-fu-hao.md)
+* [第二章 语法](2_Grammars.md)
 * [第三章 词法结构\(Lexical Structure\)](di-san-zhang-ci-fa-jie-678428-lexical-structure.md)
   * [3.1. Unicode](di-san-zhang-ci-fa-jie-678428-lexical-structure/31-unicode.md)
   * [3.2. Lexical Translations](32-lexical-translations.md)
